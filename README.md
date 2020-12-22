@@ -6,7 +6,7 @@ INTEGRANTES EQUIPO SAYAJINE'S SECURITY:
  *GONZALO GODOY || https://github.com/Gongodes
  *VANESSA AMARO || https://github.com/Vamartcl0216/Evaluacion_Final_Modulo_3.git
  *YOSSIE MUÑOZ  || https://github.com/PomPooon
- *CARLOS ESTAY  || https://github.com/cfestay
+ *CARLOS ESTAY  || https://github.com/cfestay/Modulo3.EntregaFinal..git
  *GUSTAVO LIMA  || https://github.com/FSJGus
 
 
