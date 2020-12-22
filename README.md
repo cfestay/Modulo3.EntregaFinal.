@@ -3,7 +3,7 @@ CURSO: 156-3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 INTEGRANTES EQUIPO SAYAJINE'S SECURITY:
 
- *GONZALO GODOY || https://github.com/Gongodes
+ *GONZALO GODOY || https://github.com/Gongodes/ExamenFinalModulo3
  *VANESSA AMARO || https://github.com/Vamartcl0216/Evaluacion_Final_Modulo_3.git
  *YOSSIE MUÑOZ  || https://github.com/PomPooon
  *CARLOS ESTAY  || https://github.com/cfestay/Modulo3.EntregaFinal..git
